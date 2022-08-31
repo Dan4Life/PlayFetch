@@ -321,7 +321,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2132755063702650681, guid: ae5a8ef743f9a274a8cba15847255819, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 12
+      value: 28.77
       objectReference: {fileID: 0}
     - target: {fileID: 2132755063702650681, guid: ae5a8ef743f9a274a8cba15847255819, type: 3}
       propertyPath: m_LocalRotation.w
@@ -549,7 +549,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 93145451017806692, guid: 8573bd4ae2afea245a76b0d6bad78ec6, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 12.01
+      value: 28.83
       objectReference: {fileID: 0}
     - target: {fileID: 93145451017806692, guid: 8573bd4ae2afea245a76b0d6bad78ec6, type: 3}
       propertyPath: m_LocalRotation.w
@@ -690,7 +690,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   horizontalInput: 0
-  speed: 10
+  speed: 20
   xRange: 10
   projectilePrefab: {fileID: 6607252336430070059, guid: 8c22fe530d25a2341bd1ab39c8c34291, type: 3}
 --- !u!1 &1478391797
@@ -849,7 +849,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7711980115518098709, guid: 3094aac8457bca9489725e9c18e84102, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 12
+      value: 29.17
       objectReference: {fileID: 0}
     - target: {fileID: 7711980115518098709, guid: 3094aac8457bca9489725e9c18e84102, type: 3}
       propertyPath: m_LocalRotation.w
